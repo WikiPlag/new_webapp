@@ -1,15 +1,14 @@
 # wikiplag new_webapp
 
-Please note:
+### Requires: 
+- Node.js (https://nodejs.org/en/download/ LTS Version)
+- npm (installed automatically with Node.js)
 
-In order to run the webapp, node.js is required.
+### Install and run locally via console:
 
-How to install and run the webapp locally via console:
-
-1. git clone https://github.com/WikiPlag/webapp.git
+1. git clone https://github.com/WikiplagWS17/webapp.git
 2. cd webapp
 3. npm install
 4. npm start
 
-
-Live version (with mocked text) is available here: http://wikiplag.f4.htw-berlin.de
+21-10-2017 Tested on Windows 10 with Node.js version 6.11.4
